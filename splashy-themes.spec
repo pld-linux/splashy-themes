@@ -6,6 +6,7 @@ License:	GPL v2+
 Group:		Themes
 Source0:	themes.tar.bz2
 # Source0-md5:	369e08eecb85f9b06bd6910c5165914a
+Provides:	splashy-theme
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
