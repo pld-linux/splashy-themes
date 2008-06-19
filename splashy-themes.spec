@@ -1,4 +1,5 @@
 Summary:	Additional themes for splashy
+Summary(pl.UTF-8):	Dodatkowe moduły dla systemu splashy
 Name:		splashy-themes
 Version:	0.3.5
 Release:	0.1
@@ -14,6 +15,12 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Available themes:
+- fingerprint
+- aqua
+- mepis baghira
+
+%description -l pl.UTF-8
+Dostępne motywy:
 - fingerprint
 - aqua
 - mepis baghira
